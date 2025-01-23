@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 225, in <module>
+    go(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 37, in go
+    with open(args.rf_config) as fp:
+FileNotFoundError: [Errno 2] No such file or directory: 'config.yaml'

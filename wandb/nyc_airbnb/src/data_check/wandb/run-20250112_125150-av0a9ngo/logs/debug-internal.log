@@ -1,0 +1,15 @@
+{"time":"2025-01-12T12:51:51.491275-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20250112_125150-av0a9ngo/logs/debug-core.log"}
+{"time":"2025-01-12T12:51:51.805639-05:00","level":"INFO","msg":"created new stream","id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:51.80568-05:00","level":"INFO","msg":"stream: started","id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:51.805717-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:51.805726-05:00","level":"INFO","msg":"sender: started","stream_id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:51.805785-05:00","level":"INFO","msg":"handler: started","stream_id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:51.961098-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T12:51:52.287274-05:00","level":"INFO","msg":"stream: closing","id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:52.287297-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T12:51:52.287575-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T12:51:52.704332-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-12T12:51:52.879056-05:00","level":"INFO","msg":"handler: closed","stream_id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:52.879095-05:00","level":"INFO","msg":"sender: closed","stream_id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:52.879079-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"av0a9ngo"}
+{"time":"2025-01-12T12:51:52.879671-05:00","level":"INFO","msg":"stream: closed","id":"av0a9ngo"}

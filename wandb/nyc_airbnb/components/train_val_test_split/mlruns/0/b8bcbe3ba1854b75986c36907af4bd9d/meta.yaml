@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/b8bcbe3ba1854b75986c36907af4bd9d/artifacts
+end_time: 1736717446346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8bcbe3ba1854b75986c36907af4bd9d
+run_name: trusting-gnat-939
+run_uuid: b8bcbe3ba1854b75986c36907af4bd9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736717437089
+status: 4
+tags: []
+user_id: jerry

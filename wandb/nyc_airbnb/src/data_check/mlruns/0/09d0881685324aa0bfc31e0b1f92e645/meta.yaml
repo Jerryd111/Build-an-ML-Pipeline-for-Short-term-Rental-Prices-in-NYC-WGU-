@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/09d0881685324aa0bfc31e0b1f92e645/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09d0881685324aa0bfc31e0b1f92e645
+run_name: merciful-dog-985
+run_uuid: 09d0881685324aa0bfc31e0b1f92e645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737316801187
+status: 1
+tags: []
+user_id: jerry

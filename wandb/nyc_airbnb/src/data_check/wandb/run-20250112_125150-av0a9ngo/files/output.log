@@ -1,0 +1,39 @@
+2025-01-12 12:51:52,002 Downloading artifact.
+Traceback (most recent call last):
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/apis/normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/apis/public/api.py", line 1214, in _artifact
+    artifact = wandb.Artifact._from_name(
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 271, in _from_name
+    raise ValueError(f"artifact '{name}' not found in '{entity}/{project}'")
+ValueError: artifact 'clean_sample.csv:latest' not found in 'gerald-donofrio1-western-governors-university/Project-Build-an-ML-Pipeline-Starter-src_data_check'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/run.py", line 35, in main
+    artifact_path = wandb.use_artifact(args.input_artifact).file()
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 394, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 384, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 3039, in use_artifact
+    artifact = public_api._artifact(type=type, name=name)
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/apis/normalize.py", line 71, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/apis/normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/apis/public/api.py", line 1214, in _artifact
+    artifact = wandb.Artifact._from_name(
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 271, in _from_name
+    raise ValueError(f"artifact '{name}' not found in '{entity}/{project}'")
+wandb.errors.errors.CommError: artifact 'clean_sample.csv:latest' not found in 'gerald-donofrio1-western-governors-university/Project-Build-an-ML-Pipeline-Starter-src_data_check'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/run.py", line 62, in <module>
+    main(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/run.py", line 37, in main
+    raise ValueError(f"Invalid artifact format: {args.input_artifact}. Use 'collection:alias'.")
+ValueError: Invalid artifact format: clean_sample.csv:latest. Use 'collection:alias'.

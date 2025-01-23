@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e8d1d07abd049179fc8773f33eaa8bb/artifacts
+end_time: 1735788295085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e8d1d07abd049179fc8773f33eaa8bb
+run_name: skillful-chimp-740
+run_uuid: 4e8d1d07abd049179fc8773f33eaa8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735788262352
+status: 4
+tags: []
+user_id: jerry

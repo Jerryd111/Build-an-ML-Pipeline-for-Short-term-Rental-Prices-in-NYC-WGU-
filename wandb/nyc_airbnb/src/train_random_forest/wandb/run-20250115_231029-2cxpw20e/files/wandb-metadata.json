@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-01-16T04:10:30.041085",
+    "startedAt": "2025-01-16T04:10:29.616694",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:Jerryd111/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC-WGU-.git",
+        "commit": "d5035c2adbb22b6480ce9c63d32da923c5627a6d"
+    },
+    "email": "gdonofr@wgu.edu",
+    "root": "/Users/jerry/Project-Build-an-ML-Pipeline-Starter",
+    "host": "MacBook-Pro-2.attlocal.net",
+    "username": "jerry",
+    "executable": "/Users/jerry/miniconda3/envs/nyc_airbnb_dev/bin/python3",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 696,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 696,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 12.42740249633789
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 36.0
+    }
+}

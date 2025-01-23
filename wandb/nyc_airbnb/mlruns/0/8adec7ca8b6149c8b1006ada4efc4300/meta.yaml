@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8adec7ca8b6149c8b1006ada4efc4300/artifacts
+end_time: 1737314875992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8adec7ca8b6149c8b1006ada4efc4300
+run_name: delightful-bat-592
+run_uuid: 8adec7ca8b6149c8b1006ada4efc4300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737314873837
+status: 4
+tags: []
+user_id: jerry

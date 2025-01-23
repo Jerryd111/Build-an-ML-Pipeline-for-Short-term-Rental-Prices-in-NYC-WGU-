@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/86a8fbba67934a7cb92e3097320c4abb/artifacts
+end_time: 1736712060133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86a8fbba67934a7cb92e3097320c4abb
+run_name: upbeat-doe-89
+run_uuid: 86a8fbba67934a7cb92e3097320c4abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736712029040
+status: 4
+tags: []
+user_id: jerry

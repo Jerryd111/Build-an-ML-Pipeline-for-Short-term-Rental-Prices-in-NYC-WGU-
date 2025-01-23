@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f42aab043873483299279fe484e501f1/artifacts
+end_time: 1735788953711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f42aab043873483299279fe484e501f1
+run_name: powerful-roo-471
+run_uuid: f42aab043873483299279fe484e501f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735788922861
+status: 4
+tags: []
+user_id: jerry

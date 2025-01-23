@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7bde2f7f48e24bf9afdbc07b9e272bed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bde2f7f48e24bf9afdbc07b9e272bed
+run_name: rebellious-bass-166
+run_uuid: 7bde2f7f48e24bf9afdbc07b9e272bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730313900106
+status: 1
+tags: []
+user_id: jerry

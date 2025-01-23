@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/32eab1f3988940da880aee0d945f03f0/artifacts
+end_time: 1736721243915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32eab1f3988940da880aee0d945f03f0
+run_name: kindly-gnat-958
+run_uuid: 32eab1f3988940da880aee0d945f03f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736721233768
+status: 4
+tags: []
+user_id: jerry

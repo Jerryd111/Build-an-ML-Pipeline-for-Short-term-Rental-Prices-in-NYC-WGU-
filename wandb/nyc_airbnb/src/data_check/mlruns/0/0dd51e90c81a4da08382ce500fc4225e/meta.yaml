@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/0dd51e90c81a4da08382ce500fc4225e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd51e90c81a4da08382ce500fc4225e
+run_name: orderly-sloth-890
+run_uuid: 0dd51e90c81a4da08382ce500fc4225e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736429069427
+status: 1
+tags: []
+user_id: jerry

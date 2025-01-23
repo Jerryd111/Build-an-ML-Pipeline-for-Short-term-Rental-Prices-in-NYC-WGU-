@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/8d05258dd2c64b4fac50a75278222915/artifacts
+end_time: 1736715953009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d05258dd2c64b4fac50a75278222915
+run_name: placid-snipe-566
+run_uuid: 8d05258dd2c64b4fac50a75278222915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736715943524
+status: 4
+tags: []
+user_id: jerry

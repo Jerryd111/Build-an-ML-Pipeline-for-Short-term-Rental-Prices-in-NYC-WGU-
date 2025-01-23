@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/0b31ad81ebdc4642bc9ea6e8ce4feaf7/artifacts
+end_time: 1736715554125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b31ad81ebdc4642bc9ea6e8ce4feaf7
+run_name: victorious-squid-357
+run_uuid: 0b31ad81ebdc4642bc9ea6e8ce4feaf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736715543803
+status: 4
+tags: []
+user_id: jerry

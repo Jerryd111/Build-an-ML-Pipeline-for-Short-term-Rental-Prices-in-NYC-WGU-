@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/00144e7b7ea6418e98aaebcdf19c8fc2/artifacts
+end_time: 1737317772759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00144e7b7ea6418e98aaebcdf19c8fc2
+run_name: bold-shrew-923
+run_uuid: 00144e7b7ea6418e98aaebcdf19c8fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737317769407
+status: 4
+tags: []
+user_id: jerry

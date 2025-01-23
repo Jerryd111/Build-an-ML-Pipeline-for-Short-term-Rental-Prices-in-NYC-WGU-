@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ac9c026650fd4e16be7d7d636b6bbdc2/artifacts
+end_time: 1735786891817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac9c026650fd4e16be7d7d636b6bbdc2
+run_name: dapper-deer-962
+run_uuid: ac9c026650fd4e16be7d7d636b6bbdc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735786889793
+status: 4
+tags: []
+user_id: jerry

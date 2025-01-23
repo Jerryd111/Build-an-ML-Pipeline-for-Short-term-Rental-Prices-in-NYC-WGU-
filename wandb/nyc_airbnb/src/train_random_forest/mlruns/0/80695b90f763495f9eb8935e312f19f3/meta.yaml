@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/80695b90f763495f9eb8935e312f19f3/artifacts
+end_time: 1737000744574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80695b90f763495f9eb8935e312f19f3
+run_name: vaunted-ant-348
+run_uuid: 80695b90f763495f9eb8935e312f19f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737000734243
+status: 4
+tags: []
+user_id: jerry

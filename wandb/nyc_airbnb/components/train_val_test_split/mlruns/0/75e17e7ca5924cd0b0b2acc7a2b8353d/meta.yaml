@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/75e17e7ca5924cd0b0b2acc7a2b8353d/artifacts
+end_time: 1736715015892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75e17e7ca5924cd0b0b2acc7a2b8353d
+run_name: legendary-snail-137
+run_uuid: 75e17e7ca5924cd0b0b2acc7a2b8353d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736715013846
+status: 4
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/ca23fbe6b8cd4073a38c3f1740469ba7/artifacts
+end_time: 1736715211670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca23fbe6b8cd4073a38c3f1740469ba7
+run_name: gifted-fish-538
+run_uuid: ca23fbe6b8cd4073a38c3f1740469ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736715200435
+status: 4
+tags: []
+user_id: jerry

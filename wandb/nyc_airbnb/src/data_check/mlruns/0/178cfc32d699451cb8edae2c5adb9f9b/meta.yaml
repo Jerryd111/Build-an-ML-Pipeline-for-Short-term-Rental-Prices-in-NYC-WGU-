@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/178cfc32d699451cb8edae2c5adb9f9b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178cfc32d699451cb8edae2c5adb9f9b
+run_name: smiling-shrike-76
+run_uuid: 178cfc32d699451cb8edae2c5adb9f9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736704041423
+status: 1
+tags: []
+user_id: jerry

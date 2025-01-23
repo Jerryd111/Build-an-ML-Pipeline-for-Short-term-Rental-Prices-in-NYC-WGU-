@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/a1580b0c23b24f3fab3bd332ef01880f/artifacts
+end_time: 1737001805856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1580b0c23b24f3fab3bd332ef01880f
+run_name: unique-dog-209
+run_uuid: a1580b0c23b24f3fab3bd332ef01880f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737001795337
+status: 4
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/46f92a86ac1847b5929a9bb0fd5565a9/artifacts
+end_time: 1736718435272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46f92a86ac1847b5929a9bb0fd5565a9
+run_name: useful-perch-476
+run_uuid: 46f92a86ac1847b5929a9bb0fd5565a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736718421454
+status: 3
+tags: []
+user_id: jerry

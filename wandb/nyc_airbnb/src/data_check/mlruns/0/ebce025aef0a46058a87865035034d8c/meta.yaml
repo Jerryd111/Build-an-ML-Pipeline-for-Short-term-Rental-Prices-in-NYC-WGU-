@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/ebce025aef0a46058a87865035034d8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebce025aef0a46058a87865035034d8c
+run_name: enchanting-ox-12
+run_uuid: ebce025aef0a46058a87865035034d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736429359601
+status: 1
+tags: []
+user_id: jerry

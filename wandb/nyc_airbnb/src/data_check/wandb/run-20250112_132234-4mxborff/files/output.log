@@ -1,0 +1,11 @@
+2025-01-12 13:22:34,901 Downloading artifact.
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/run.py", line 62, in <module>
+    main(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/run.py", line 35, in main
+    artifact_path = wandb.use_artifact(args.input_artifact).file()
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/artifacts/_validators.py", line 98, in wrapper
+    return method(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/data_check_env/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 1964, in file
+    return self.get_entry(list(self.manifest.entries)[0]).download(root)
+IndexError: list index out of range

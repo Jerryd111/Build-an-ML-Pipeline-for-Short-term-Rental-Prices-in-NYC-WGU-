@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/3175af0d314f48d395cff46cf5ea46e2/artifacts
+end_time: 1736721032563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3175af0d314f48d395cff46cf5ea46e2
+run_name: agreeable-crow-33
+run_uuid: 3175af0d314f48d395cff46cf5ea46e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736721022120
+status: 4
+tags: []
+user_id: jerry

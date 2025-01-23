@@ -1,0 +1,15 @@
+{"time":"2025-01-19T14:32:04.086898-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/jerry/wandb/nyc_airbnb/wandb/run-20250119_143203-uktr2alb/logs/debug-core.log"}
+{"time":"2025-01-19T14:32:04.197118-05:00","level":"INFO","msg":"created new stream","id":"uktr2alb"}
+{"time":"2025-01-19T14:32:04.197162-05:00","level":"INFO","msg":"stream: started","id":"uktr2alb"}
+{"time":"2025-01-19T14:32:04.197248-05:00","level":"INFO","msg":"handler: started","stream_id":"uktr2alb"}
+{"time":"2025-01-19T14:32:04.197521-05:00","level":"INFO","msg":"sender: started","stream_id":"uktr2alb"}
+{"time":"2025-01-19T14:32:04.197588-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"uktr2alb"}
+{"time":"2025-01-19T14:32:04.371611-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-19T14:32:08.803259-05:00","level":"INFO","msg":"stream: closing","id":"uktr2alb"}
+{"time":"2025-01-19T14:32:08.803964-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-19T14:32:08.805053-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-19T14:32:09.27787-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-19T14:32:09.431461-05:00","level":"INFO","msg":"handler: closed","stream_id":"uktr2alb"}
+{"time":"2025-01-19T14:32:09.431531-05:00","level":"INFO","msg":"sender: closed","stream_id":"uktr2alb"}
+{"time":"2025-01-19T14:32:09.431511-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"uktr2alb"}
+{"time":"2025-01-19T14:32:09.432043-05:00","level":"INFO","msg":"stream: closed","id":"uktr2alb"}

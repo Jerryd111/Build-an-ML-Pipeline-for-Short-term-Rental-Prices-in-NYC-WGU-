@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/c516d0f3207f4c21839e1339e33761aa/artifacts
+end_time: 1737317936945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c516d0f3207f4c21839e1339e33761aa
+run_name: smiling-tern-746
+run_uuid: c516d0f3207f4c21839e1339e33761aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737317926861
+status: 4
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4dcbc6661e684886a199e9362c90f7e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dcbc6661e684886a199e9362c90f7e5
+run_name: selective-panda-1000
+run_uuid: 4dcbc6661e684886a199e9362c90f7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735788017562
+status: 1
+tags: []
+user_id: jerry

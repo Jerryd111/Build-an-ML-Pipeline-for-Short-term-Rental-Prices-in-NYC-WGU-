@@ -1,0 +1,42 @@
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Permission denied to access gerald-donofrio1-western-governors-university/Project-Build-an-ML-Pipeline-Starter-src_train_random_forest/5yw87xun
+Traceback (most recent call last):
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/apis/public.py", line 217, in execute
+    return self._client.execute(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/lib/gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://api.wandb.ai/graphql
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 255, in <module>
+    go(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 56, in go
+    trainval_local_path = run.use_artifact(args.trainval_artifact).file()
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 371, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 361, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2769, in use_artifact
+    artifact = public_api.artifact(type=type, name=name)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/apis/normalize.py", line 73, in wrapper
+    raise err
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/apis/public.py", line 1040, in artifact
+    artifact = wandb.Artifact._from_name(
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 246, in _from_name
+    response = client.execute(
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 212, in wrapped_fn
+    return retrier(*args, **kargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/util.py", line 905, in no_retry_auth
+    raise CommError(f"Permission denied to access {wandb.run.path}")
+wandb.errors.CommError: Permission denied to access gerald-donofrio1-western-governors-university/Project-Build-an-ML-Pipeline-Starter-src_train_random_forest/5yw87xun

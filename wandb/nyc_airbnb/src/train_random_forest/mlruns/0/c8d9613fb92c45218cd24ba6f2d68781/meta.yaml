@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/c8d9613fb92c45218cd24ba6f2d68781/artifacts
+end_time: 1736729736551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8d9613fb92c45218cd24ba6f2d68781
+run_name: nosy-toad-822
+run_uuid: c8d9613fb92c45218cd24ba6f2d68781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736729713118
+status: 4
+tags: []
+user_id: jerry

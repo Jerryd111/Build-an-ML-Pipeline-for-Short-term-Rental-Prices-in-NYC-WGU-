@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/2093df45feca4a0abe7114bde69d2b56/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2093df45feca4a0abe7114bde69d2b56
+run_name: caring-stork-875
+run_uuid: 2093df45feca4a0abe7114bde69d2b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736703784161
+status: 1
+tags: []
+user_id: jerry

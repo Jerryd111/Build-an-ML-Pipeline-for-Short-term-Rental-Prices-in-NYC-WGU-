@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/b286218bb6844a78bba91119993668fc/artifacts
+end_time: 1737085216551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b286218bb6844a78bba91119993668fc
+run_name: aged-frog-126
+run_uuid: b286218bb6844a78bba91119993668fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737085212395
+status: 4
+tags: []
+user_id: jerry

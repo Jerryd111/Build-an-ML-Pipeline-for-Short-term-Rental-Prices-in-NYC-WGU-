@@ -1,0 +1,17 @@
+{"time":"2025-01-12T15:06:51.904116-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20250112_150651-tpcsnxgt/logs/debug-core.log"}
+{"time":"2025-01-12T15:06:52.112936-05:00","level":"INFO","msg":"created new stream","id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:52.112978-05:00","level":"INFO","msg":"stream: started","id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:52.113002-05:00","level":"INFO","msg":"handler: started","stream_id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:52.113021-05:00","level":"INFO","msg":"sender: started","stream_id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:52.113041-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:52.33838-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T15:06:53.079658-05:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-01-12T15:06:53.121184-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T15:06:53.121455-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T15:06:53.528552-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-12T15:06:53.680211-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-12T15:06:54.692799-05:00","level":"INFO","msg":"stream: closing","id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:54.692825-05:00","level":"INFO","msg":"handler: closed","stream_id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:54.692849-05:00","level":"INFO","msg":"sender: closed","stream_id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:54.692838-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tpcsnxgt"}
+{"time":"2025-01-12T15:06:54.693101-05:00","level":"INFO","msg":"stream: closed","id":"tpcsnxgt"}

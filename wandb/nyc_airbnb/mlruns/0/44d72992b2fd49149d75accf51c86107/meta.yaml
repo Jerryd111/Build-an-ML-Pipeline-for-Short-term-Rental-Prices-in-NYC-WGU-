@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/44d72992b2fd49149d75accf51c86107/artifacts
+end_time: 1730316552963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44d72992b2fd49149d75accf51c86107
+run_name: shivering-carp-110
+run_uuid: 44d72992b2fd49149d75accf51c86107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730316521053
+status: 4
+tags: []
+user_id: jerry

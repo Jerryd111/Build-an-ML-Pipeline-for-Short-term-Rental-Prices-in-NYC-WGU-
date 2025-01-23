@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c8d33c8944a410aab68ad53e73f41d4/artifacts
+end_time: 1737318026664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c8d33c8944a410aab68ad53e73f41d4
+run_name: stately-fish-699
+run_uuid: 7c8d33c8944a410aab68ad53e73f41d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737318024228
+status: 4
+tags: []
+user_id: jerry

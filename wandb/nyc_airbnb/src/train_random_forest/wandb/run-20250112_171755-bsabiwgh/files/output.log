@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 225, in <module>
+    go(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 38, in go
+    rf_config = json.load(fp)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

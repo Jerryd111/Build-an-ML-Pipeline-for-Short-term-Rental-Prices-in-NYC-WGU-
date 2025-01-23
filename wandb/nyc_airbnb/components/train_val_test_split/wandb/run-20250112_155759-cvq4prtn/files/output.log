@@ -1,0 +1,31 @@
+2025-01-12 15:58:00,401 Fetching artifact /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/clean_sample.csv
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Invalid artifact path: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/clean_sample.csv
+Traceback (most recent call last):
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/public.py", line 1039, in artifact
+    entity, project, artifact_name = self._parse_artifact_path(name)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/public.py", line 740, in _parse_artifact_path
+    raise ValueError("Invalid artifact path: %s" % path)
+ValueError: Invalid artifact path: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/clean_sample.csv
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py", line 63, in <module>
+    go(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py", line 25, in go
+    artifact_local_path = run.use_artifact(args.input).file()
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 371, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 361, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2769, in use_artifact
+    artifact = public_api.artifact(type=type, name=name)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/normalize.py", line 87, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/public.py", line 1039, in artifact
+    entity, project, artifact_name = self._parse_artifact_path(name)
+  File "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/lib/python3.10/site-packages/wandb/apis/public.py", line 740, in _parse_artifact_path
+    raise ValueError("Invalid artifact path: %s" % path)
+wandb.errors.CommError: Invalid artifact path: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/clean_sample.csv

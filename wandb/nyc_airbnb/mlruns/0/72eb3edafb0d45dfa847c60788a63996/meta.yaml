@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/72eb3edafb0d45dfa847c60788a63996/artifacts
+end_time: 1737313957870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72eb3edafb0d45dfa847c60788a63996
+run_name: useful-elk-255
+run_uuid: 72eb3edafb0d45dfa847c60788a63996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737313955608
+status: 4
+tags: []
+user_id: jerry

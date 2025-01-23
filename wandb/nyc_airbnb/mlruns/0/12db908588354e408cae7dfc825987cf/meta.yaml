@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/12db908588354e408cae7dfc825987cf/artifacts
+end_time: 1735788030780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12db908588354e408cae7dfc825987cf
+run_name: victorious-mole-698
+run_uuid: 12db908588354e408cae7dfc825987cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735788029546
+status: 4
+tags: []
+user_id: jerry

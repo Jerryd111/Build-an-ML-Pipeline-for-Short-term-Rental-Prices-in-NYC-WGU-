@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a0afee0a67da443bbf657821ab068fc4/artifacts
+end_time: 1737313985269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0afee0a67da443bbf657821ab068fc4
+run_name: masked-shrew-694
+run_uuid: a0afee0a67da443bbf657821ab068fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737313983211
+status: 4
+tags: []
+user_id: jerry

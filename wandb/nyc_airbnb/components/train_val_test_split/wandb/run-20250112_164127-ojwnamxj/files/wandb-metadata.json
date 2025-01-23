@@ -1,0 +1,16 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-01-12T21:41:27.663393Z",
+  "program":  "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/log_clean_sample.py",
+  "codePath":  "components/train_val_test_split/log_clean_sample.py",
+  "git":  {
+    "remote":  "git@github.com:Jerryd111/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC-WGU-.git",
+    "commit":  "d5035c2adbb22b6480ce9c63d32da923c5627a6d"
+  },
+  "email":  "gerald.donofrio1@gmail.com",
+  "root":  "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split",
+  "host":  "MacBook-Pro-2.attlocal.net",
+  "executable":  "/Users/jerry/miniconda3/envs/data_check_env/bin/python",
+  "codePathLocal":  "log_clean_sample.py"
+}

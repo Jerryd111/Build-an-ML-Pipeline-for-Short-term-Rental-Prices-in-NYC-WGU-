@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-01-12T19:53:00.305145Z",
+  "program":  "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/upload_artifact.py",
+  "codePath":  "src/data_check/upload_artifact.py",
+  "git":  {
+    "remote":  "https://github.com/Jerryd111/Project-Build-an-ML-Pipeline-Starter.git",
+    "commit":  "0936351046db1e8e7587aa16f516b26a9374b3da"
+  },
+  "email":  "gerald.donofrio1@gmail.com",
+  "root":  "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check",
+  "host":  "MacBook-Pro-2.attlocal.net",
+  "executable":  "/Users/jerry/miniconda3/envs/data_check_env/bin/python",
+  "codePathLocal":  "upload_artifact.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "337413308416"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "337413308416"
+    }
+  },
+  "memory":  {
+    "total":  "38654705664"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  12
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  6,
+    "gpuCores":  18,
+    "memoryGb":  36,
+    "swapTotalBytes":  "24696061952",
+    "ramTotalBytes":  "38654705664"
+  }
+}

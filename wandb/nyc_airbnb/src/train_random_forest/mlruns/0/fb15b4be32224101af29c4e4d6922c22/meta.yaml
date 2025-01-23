@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/fb15b4be32224101af29c4e4d6922c22/artifacts
+end_time: 1736997672609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb15b4be32224101af29c4e4d6922c22
+run_name: unleashed-bug-554
+run_uuid: fb15b4be32224101af29c4e4d6922c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736997662403
+status: 4
+tags: []
+user_id: jerry

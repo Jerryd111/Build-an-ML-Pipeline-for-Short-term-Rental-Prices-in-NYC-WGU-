@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/d8e8f519bebc420fa349f7c2cb29c147/artifacts
+end_time: 1737001052169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8e8f519bebc420fa349f7c2cb29c147
+run_name: sedate-squirrel-838
+run_uuid: d8e8f519bebc420fa349f7c2cb29c147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737001041705
+status: 4
+tags: []
+user_id: jerry

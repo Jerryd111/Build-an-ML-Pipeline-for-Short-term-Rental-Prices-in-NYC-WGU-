@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/937cddbb91e345cc8c65e5cf5442c24a/artifacts
+end_time: 1730313967691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 937cddbb91e345cc8c65e5cf5442c24a
+run_name: unequaled-calf-504
+run_uuid: 937cddbb91e345cc8c65e5cf5442c24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730313852741
+status: 4
+tags: []
+user_id: jerry

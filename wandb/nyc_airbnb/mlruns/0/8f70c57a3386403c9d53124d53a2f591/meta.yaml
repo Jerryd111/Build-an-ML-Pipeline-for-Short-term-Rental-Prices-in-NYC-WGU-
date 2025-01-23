@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f70c57a3386403c9d53124d53a2f591/artifacts
+end_time: 1737594961450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f70c57a3386403c9d53124d53a2f591
+run_name: amazing-bug-880
+run_uuid: 8f70c57a3386403c9d53124d53a2f591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737594956888
+status: 4
+tags: []
+user_id: jerry

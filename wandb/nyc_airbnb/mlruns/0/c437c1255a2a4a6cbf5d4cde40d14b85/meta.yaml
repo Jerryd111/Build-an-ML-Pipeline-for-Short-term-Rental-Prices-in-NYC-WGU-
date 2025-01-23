@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c437c1255a2a4a6cbf5d4cde40d14b85/artifacts
+end_time: 1735779749795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c437c1255a2a4a6cbf5d4cde40d14b85
+run_name: skillful-flea-967
+run_uuid: c437c1255a2a4a6cbf5d4cde40d14b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735779740708
+status: 3
+tags: []
+user_id: jerry

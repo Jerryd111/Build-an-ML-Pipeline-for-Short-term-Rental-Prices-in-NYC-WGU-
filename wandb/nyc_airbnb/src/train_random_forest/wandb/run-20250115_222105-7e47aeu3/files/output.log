@@ -1,0 +1,17 @@
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Attempted to change value of key "trainval_artifact" from trainval_data.csv:latest to {'desc': None, 'value': 'trainval_data.csv:latest'}
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m If you really want to do this, pass allow_val_change=True to config.update()
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 253, in <module>
+    go(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 48, in go
+    run.config.update(rf_config)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 184, in update
+    sanitized = self._update(d, allow_val_change)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 177, in _update
+    sanitized = self._sanitize_dict(
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 237, in _sanitize_dict
+    k, v = self._sanitize(k, v, allow_val_change)
+  File "/Users/jerry/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 258, in _sanitize
+    raise config_util.ConfigError(
+wandb.sdk.lib.config_util.ConfigError: Attempted to change value of key "trainval_artifact" from trainval_data.csv:latest to {'desc': None, 'value': 'trainval_data.csv:latest'}
+If you really want to do this, pass allow_val_change=True to config.update()

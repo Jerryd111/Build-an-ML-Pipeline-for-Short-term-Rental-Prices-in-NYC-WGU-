@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Users/jerry/miniconda3/envs/nyc_airbnb_dev/lib/python3.10/site-packages/wandb/sdk/artifacts/_validators.py", line 115, in wrapper
+    return method(self, *args, **kwargs)
+  File "/Users/jerry/miniconda3/envs/nyc_airbnb_dev/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 1189, in add_file
+    raise ValueError(f"Path is not a file: {local_path!r}")
+ValueError: Path is not a file: '~/nyc_airbnb/trainval_data.csv'
+<Artifact trainval_data.csv>

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/780fa79e4ee9433e8466e5501b14d50c/artifacts
+end_time: 1736718142748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780fa79e4ee9433e8466e5501b14d50c
+run_name: omniscient-ape-232
+run_uuid: 780fa79e4ee9433e8466e5501b14d50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736718133009
+status: 4
+tags: []
+user_id: jerry

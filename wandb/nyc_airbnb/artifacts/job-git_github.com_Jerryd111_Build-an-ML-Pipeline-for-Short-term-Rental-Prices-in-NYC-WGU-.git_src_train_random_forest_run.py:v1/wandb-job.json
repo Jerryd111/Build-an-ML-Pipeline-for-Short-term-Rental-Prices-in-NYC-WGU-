@@ -1,0 +1,136 @@
+{
+    "_version": "v0",
+    "source_type": "repo",
+    "source": {
+        "git": {
+            "remote": "git@github.com:Jerryd111/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC-WGU-.git",
+            "commit": "d5035c2adbb22b6480ce9c63d32da923c5627a6d"
+        },
+        "entrypoint": [
+            "python",
+            "src/train_random_forest/run.py"
+        ],
+        "notebook": false
+    },
+    "input_types": {
+        "wb_type": "typedDict",
+        "params": {
+            "type_map": {
+                "trainval_artifact": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "string"
+                            }
+                        }
+                    }
+                },
+                "val_size": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "number"
+                            }
+                        }
+                    }
+                },
+                "random_seed": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "number"
+                            }
+                        }
+                    }
+                },
+                "stratify_by": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "string"
+                            }
+                        }
+                    }
+                },
+                "rf_config": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "typedDict",
+                                "params": {
+                                    "type_map": {
+                                        "n_estimators": {
+                                            "wb_type": "number"
+                                        },
+                                        "max_depth": {
+                                            "wb_type": "number"
+                                        },
+                                        "random_state": {
+                                            "wb_type": "number"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "max_tfidf_features": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "number"
+                            }
+                        }
+                    }
+                },
+                "output_artifact": {
+                    "wb_type": "typedDict",
+                    "params": {
+                        "type_map": {
+                            "desc": {
+                                "wb_type": "none"
+                            },
+                            "value": {
+                                "wb_type": "string"
+                            }
+                        }
+                    }
+                },
+                "wandb_version": {
+                    "wb_type": "number"
+                }
+            }
+        }
+    },
+    "output_types": {
+        "wb_type": "typedDict",
+        "params": {
+            "type_map": {}
+        }
+    },
+    "runtime": "3.10.16"
+}

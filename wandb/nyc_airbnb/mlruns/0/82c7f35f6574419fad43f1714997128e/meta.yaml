@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/82c7f35f6574419fad43f1714997128e/artifacts
+end_time: 1735787553179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82c7f35f6574419fad43f1714997128e
+run_name: big-bass-839
+run_uuid: 82c7f35f6574419fad43f1714997128e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735787525943
+status: 4
+tags: []
+user_id: jerry

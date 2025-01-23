@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/d7a521bbb83c4175b7d82973714d367a/artifacts
+end_time: 1736997652830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7a521bbb83c4175b7d82973714d367a
+run_name: resilient-panda-830
+run_uuid: d7a521bbb83c4175b7d82973714d367a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736997637267
+status: 4
+tags: []
+user_id: jerry

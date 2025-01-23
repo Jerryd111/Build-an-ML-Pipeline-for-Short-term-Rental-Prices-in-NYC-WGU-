@@ -1,0 +1,30 @@
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Configure stats pid to 33774
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Loading settings from /Users/jerry/.config/wandb/settings
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Loading settings from /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/settings
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/train_random_forest/run.py', 'program_abspath': '/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'program': '/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py'}
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_init.py:_log_setup():524] Logging user logs to /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20250115_231801-6zaix5m6/logs/debug.log
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20250115_231801-6zaix5m6/logs/debug-internal.log
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_init.py:init():564] calling init triggers
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_init.py:init():614] starting backend
+2025-01-15 23:18:01,591 INFO    MainThread:33774 [wandb_init.py:init():618] setting up manager
+2025-01-15 23:18:01,592 INFO    MainThread:33774 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-15 23:18:01,594 INFO    MainThread:33774 [wandb_init.py:init():624] backend started and connected
+2025-01-15 23:18:01,596 INFO    MainThread:33774 [wandb_init.py:init():716] updated telemetry
+2025-01-15 23:18:01,611 INFO    MainThread:33774 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2025-01-15 23:18:01,871 INFO    MainThread:33774 [wandb_run.py:_on_init():2254] communicating current version
+2025-01-15 23:18:01,959 INFO    MainThread:33774 [wandb_run.py:_on_init():2263] got version response upgrade_message: "wandb version 0.19.3 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2025-01-15 23:18:01,960 INFO    MainThread:33774 [wandb_init.py:init():800] starting run threads in backend
+2025-01-15 23:18:02,409 INFO    MainThread:33774 [wandb_run.py:_console_start():2233] atexit reg
+2025-01-15 23:18:02,409 INFO    MainThread:33774 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2025-01-15 23:18:02,409 INFO    MainThread:33774 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2025-01-15 23:18:02,409 INFO    MainThread:33774 [wandb_run.py:_redirect():2178] Redirects installed.
+2025-01-15 23:18:02,410 INFO    MainThread:33774 [wandb_init.py:init():841] run started, returning control to user process
+2025-01-15 23:18:02,410 INFO    MainThread:33774 [wandb_run.py:_config_callback():1342] config_cb None None {'trainval_artifact': 'trainval_data.csv:v0', 'val_size': 0.2, 'random_seed': 42, 'stratify_by': 'none', 'rf_config': 'config.yaml', 'max_tfidf_features': 100, 'output_artifact': 'random_forest_export'}
+2025-01-15 23:18:02,413 INFO    MainThread:33774 [wandb_run.py:_config_callback():1342] config_cb None None {'wandb_version': 1, 'trainval_artifact': {'desc': None, 'value': 'trainval_data.csv:latest'}, 'val_size': {'desc': None, 'value': 0.2}, 'random_seed': {'desc': None, 'value': 42}, 'stratify_by': {'desc': None, 'value': 'none'}, 'rf_config': {'desc': None, 'value': {'n_estimators': 100, 'max_depth': 10, 'random_state': 42}}, 'max_tfidf_features': {'desc': None, 'value': 100}, 'output_artifact': {'desc': None, 'value': 'random_forest_export'}}
+2025-01-15 23:18:07,747 WARNING MsgRouterThr:33774 [router.py:message_loop():77] message_loop has been closed

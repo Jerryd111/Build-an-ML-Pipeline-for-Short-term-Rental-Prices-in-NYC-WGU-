@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/e933edd45ddc4de08e20f4737eec29ee/artifacts
+end_time: 1736714977891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e933edd45ddc4de08e20f4737eec29ee
+run_name: righteous-wolf-621
+run_uuid: e933edd45ddc4de08e20f4737eec29ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736714975593
+status: 4
+tags: []
+user_id: jerry

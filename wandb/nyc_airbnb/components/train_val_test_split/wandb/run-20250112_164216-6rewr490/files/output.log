@@ -1,0 +1,9 @@
+2025-01-12 16:42:17,276 Fetching artifact clean_sample:latest
+2025-01-12 16:42:18,046 Splitting trainval and test datasets
+2025-01-12 16:42:18,051 Uploading trainval_data.csv dataset
+Traceback (most recent call last):
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py", line 63, in <module>
+    go(args)
+  File "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py", line 44, in go
+    log_artifact(
+TypeError: log_artifact() got an unexpected keyword argument 'description'

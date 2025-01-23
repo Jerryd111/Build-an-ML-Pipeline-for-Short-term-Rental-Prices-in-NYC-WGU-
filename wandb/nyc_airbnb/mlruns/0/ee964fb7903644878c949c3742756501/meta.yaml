@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ee964fb7903644878c949c3742756501/artifacts
+end_time: 1737314922042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee964fb7903644878c949c3742756501
+run_name: salty-colt-147
+run_uuid: ee964fb7903644878c949c3742756501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737314919851
+status: 4
+tags: []
+user_id: jerry

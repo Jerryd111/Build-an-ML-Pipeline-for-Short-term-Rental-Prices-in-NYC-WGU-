@@ -1,0 +1,6 @@
+2025-01-12 16:47:05,135 Fetching artifact clean_sample:latest
+2025-01-12 16:47:05,869 Splitting trainval and test datasets
+2025-01-12 16:47:05,873 Uploading trainval_data.csv dataset
+2025-01-12 16:47:06,044 Artifact trainval_data.csv logged successfully
+2025-01-12 16:47:06,044 Uploading test_data.csv dataset
+2025-01-12 16:47:06,167 Artifact test_data.csv logged successfully

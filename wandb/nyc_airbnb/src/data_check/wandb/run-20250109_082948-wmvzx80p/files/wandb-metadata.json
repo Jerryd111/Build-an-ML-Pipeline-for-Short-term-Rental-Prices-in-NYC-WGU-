@@ -1,0 +1,55 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-01-09T13:29:49.062670",
+    "startedAt": "2025-01-09T13:29:48.605585",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact=clean_sample.csv",
+        "--ref_artifact=clean_sample.csv",
+        "--kl_threshold=0.1",
+        "--min_price=10",
+        "--max_price=350"
+    ],
+    "state": "running",
+    "program": "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/data_check/run.py",
+    "git": {
+        "remote": "https://github.com/Jerryd111/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": "gdonofr@wgu.edu",
+    "root": "/Users/jerry/Project-Build-an-ML-Pipeline-Starter",
+    "host": "MacBook-Pro-2.attlocal.net",
+    "username": "jerry",
+    "executable": "/Users/jerry/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 696,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 696,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 12.426765441894531
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 36.0
+    }
+}

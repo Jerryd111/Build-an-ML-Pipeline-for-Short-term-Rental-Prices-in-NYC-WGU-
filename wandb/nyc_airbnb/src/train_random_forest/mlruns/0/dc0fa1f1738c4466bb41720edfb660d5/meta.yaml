@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/dc0fa1f1738c4466bb41720edfb660d5/artifacts
+end_time: 1737123951071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc0fa1f1738c4466bb41720edfb660d5
+run_name: welcoming-crane-592
+run_uuid: dc0fa1f1738c4466bb41720edfb660d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737123947086
+status: 4
+tags: []
+user_id: jerry

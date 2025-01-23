@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/a24eb41cea954c3bac43a3894103e26f/artifacts
+end_time: 1736721447675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a24eb41cea954c3bac43a3894103e26f
+run_name: skittish-bear-794
+run_uuid: a24eb41cea954c3bac43a3894103e26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736721437381
+status: 4
+tags: []
+user_id: jerry

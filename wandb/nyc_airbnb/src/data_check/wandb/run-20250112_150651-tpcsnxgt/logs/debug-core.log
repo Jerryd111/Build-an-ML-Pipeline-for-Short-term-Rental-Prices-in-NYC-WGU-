@@ -1,0 +1,15 @@
+{"time":"2025-01-12T15:06:51.704099-05:00","level":"INFO","msg":"main: starting server","port-filename":"/var/folders/rc/3rxfjq553053sqwdkq4r9kjm0000gn/T/tmpyfd1fwn8/port-18764.txt","pid":18764,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-01-12T15:06:51.709939-05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":18764}
+{"time":"2025-01-12T15:06:51.709948-05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":57524,"Zone":""}}
+{"time":"2025-01-12T15:06:51.861521-05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:51.903847-05:00","level":"INFO","msg":"handleInformInit: received","streamId":"tpcsnxgt","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:52.112985-05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"tpcsnxgt","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.692758-05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"tpcsnxgt","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.693137-05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"tpcsnxgt","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.694756-05:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.694831-05:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.694838-05:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.694847-05:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-01-12T15:06:54.694909-05:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.694925-05:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:57525"}
+{"time":"2025-01-12T15:06:54.694946-05:00","level":"INFO","msg":"server is closed"}

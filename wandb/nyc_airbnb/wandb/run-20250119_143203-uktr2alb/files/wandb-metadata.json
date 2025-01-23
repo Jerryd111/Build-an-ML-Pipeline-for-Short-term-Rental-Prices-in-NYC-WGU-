@@ -1,0 +1,42 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-01-19T19:32:04.082487Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "https://gitlab.com/wgu-gitlab-environment/task-templates/d197-version-control.git",
+    "commit":  "07f3417fff69f2fac990b65b07147dfb637adebd"
+  },
+  "email":  "gerald.donofrio1@gmail.com",
+  "root":  "/Users/jerry/wandb/nyc_airbnb",
+  "host":  "MacBook-Pro-2.attlocal.net",
+  "executable":  "/Users/jerry/miniconda3/envs/nyc_airbnb_dev/bin/python",
+  "cpu_count":  12,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "341564768256"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "341564768256"
+    }
+  },
+  "memory":  {
+    "total":  "38654705664"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  12
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  6,
+    "gpuCores":  18,
+    "memoryGb":  36,
+    "swapTotalBytes":  "22548578304",
+    "ramTotalBytes":  "38654705664"
+  }
+}

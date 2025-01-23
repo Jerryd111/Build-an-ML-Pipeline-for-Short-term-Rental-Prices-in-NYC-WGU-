@@ -1,0 +1,192 @@
+2025-01-12 16:02:41,731 INFO    StreamThr :21447 [internal.py:wandb_internal():86] W&B internal server running at pid: 21447, started at: 2025-01-12 16:02:41.730885
+2025-01-12 16:02:41,733 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: status
+2025-01-12 16:02:41,735 INFO    WriterThread:21447 [datastore.py:open_for_write():85] open: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/run-9uoqnpw5.wandb
+2025-01-12 16:02:41,736 DEBUG   SenderThread:21447 [sender.py:send():380] send: header
+2025-01-12 16:02:41,758 DEBUG   SenderThread:21447 [sender.py:send():380] send: run
+2025-01-12 16:02:42,013 INFO    SenderThread:21447 [dir_watcher.py:__init__():211] watching files in: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files
+2025-01-12 16:02:42,013 INFO    SenderThread:21447 [sender.py:_start_run_threads():1124] run started: 9uoqnpw5 with start time 1736715761.73233
+2025-01-12 16:02:42,025 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: check_version
+2025-01-12 16:02:42,025 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: check_version
+2025-01-12 16:02:42,136 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: run_start
+2025-01-12 16:02:42,148 DEBUG   HandlerThread:21447 [system_info.py:__init__():32] System info init
+2025-01-12 16:02:42,149 DEBUG   HandlerThread:21447 [system_info.py:__init__():47] System info init done
+2025-01-12 16:02:42,149 INFO    HandlerThread:21447 [system_monitor.py:start():194] Starting system monitor
+2025-01-12 16:02:42,149 INFO    SystemMonitor:21447 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2025-01-12 16:02:42,149 INFO    HandlerThread:21447 [system_monitor.py:probe():214] Collecting system info
+2025-01-12 16:02:42,151 INFO    SystemMonitor:21447 [interfaces.py:start():190] Started cpu monitoring
+2025-01-12 16:02:42,151 DEBUG   HandlerThread:21447 [system_info.py:probe():196] Probing system
+2025-01-12 16:02:42,152 INFO    SystemMonitor:21447 [interfaces.py:start():190] Started disk monitoring
+2025-01-12 16:02:42,165 INFO    SystemMonitor:21447 [interfaces.py:start():190] Started gpuapple monitoring
+2025-01-12 16:02:42,167 INFO    SystemMonitor:21447 [interfaces.py:start():190] Started memory monitoring
+2025-01-12 16:02:42,167 INFO    SystemMonitor:21447 [interfaces.py:start():190] Started network monitoring
+2025-01-12 16:02:42,168 DEBUG   HandlerThread:21447 [system_info.py:_probe_git():181] Probing git
+2025-01-12 16:02:42,195 DEBUG   HandlerThread:21447 [system_info.py:_probe_git():189] Probing git done
+2025-01-12 16:02:42,195 DEBUG   HandlerThread:21447 [system_info.py:probe():244] Probing system done
+2025-01-12 16:02:42,195 DEBUG   HandlerThread:21447 [system_monitor.py:probe():223] {'os': 'macOS-14.5-arm64-arm-64bit', 'python': '3.10.0', 'heartbeatAt': '2025-01-12T21:02:42.152298', 'startedAt': '2025-01-12T21:02:41.722532', 'docker': None, 'cuda': None, 'args': ('--input', 'clean_sample.csv:latest', '--test_size', '0.2', '--random_seed', '42', '--stratify_by', 'none'), 'state': 'running', 'program': '/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py', 'codePathLocal': 'run.py', 'codePath': 'components/train_val_test_split/run.py', 'git': {'remote': 'git@github.com:Jerryd111/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC-WGU-.git', 'commit': 'd5035c2adbb22b6480ce9c63d32da923c5627a6d'}, 'email': 'gdonofr@wgu.edu', 'root': '/Users/jerry/Project-Build-an-ML-Pipeline-Starter', 'host': 'MacBook-Pro-2.attlocal.net', 'username': 'jerry', 'executable': '/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/bin/python', 'cpu_count': 12, 'cpu_count_logical': 12, 'cpu_freq': {'current': 4056, 'min': 696, 'max': 4056}, 'cpu_freq_per_core': [{'current': 4056, 'min': 696, 'max': 4056}], 'disk': {'/': {'total': 460.4317207336426, 'used': 12.426765441894531}}, 'gpuapple': {'type': 'arm', 'vendor': 'Apple'}, 'memory': {'total': 36.0}}
+2025-01-12 16:02:42,195 INFO    HandlerThread:21447 [system_monitor.py:probe():224] Finished collecting system info
+2025-01-12 16:02:42,195 INFO    HandlerThread:21447 [system_monitor.py:probe():227] Publishing system info
+2025-01-12 16:02:42,195 DEBUG   HandlerThread:21447 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2025-01-12 16:02:42,195 DEBUG   HandlerThread:21447 [system_info.py:_save_pip():68] Saving pip packages done
+2025-01-12 16:02:42,196 DEBUG   HandlerThread:21447 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2025-01-12 16:02:42,736 DEBUG   HandlerThread:21447 [system_info.py:_save_conda():87] Saving conda packages done
+2025-01-12 16:02:42,737 INFO    HandlerThread:21447 [system_monitor.py:probe():229] Finished publishing system info
+2025-01-12 16:02:42,739 DEBUG   SenderThread:21447 [sender.py:send():380] send: files
+2025-01-12 16:02:42,739 INFO    SenderThread:21447 [sender.py:_save_file():1380] saving file wandb-metadata.json with policy now
+2025-01-12 16:02:42,742 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: stop_status
+2025-01-12 16:02:42,742 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: stop_status
+2025-01-12 16:02:42,743 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: internal_messages
+2025-01-12 16:02:42,907 DEBUG   SenderThread:21447 [sender.py:send():380] send: telemetry
+2025-01-12 16:02:42,907 DEBUG   SenderThread:21447 [sender.py:send():380] send: config
+2025-01-12 16:02:43,021 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/requirements.txt
+2025-01-12 16:02:43,022 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/conda-environment.yaml
+2025-01-12 16:02:43,022 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/wandb-metadata.json
+2025-01-12 16:02:43,022 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/output.log
+2025-01-12 16:02:43,081 DEBUG   SenderThread:21447 [sender.py:send():380] send: exit
+2025-01-12 16:02:43,081 INFO    SenderThread:21447 [sender.py:send_exit():585] handling exit code: 1
+2025-01-12 16:02:43,081 INFO    SenderThread:21447 [sender.py:send_exit():587] handling runtime: 0
+2025-01-12 16:02:43,082 INFO    SenderThread:21447 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2025-01-12 16:02:43,082 INFO    SenderThread:21447 [sender.py:send_exit():593] send defer
+2025-01-12 16:02:43,082 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,082 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 0
+2025-01-12 16:02:43,082 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,082 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 0
+2025-01-12 16:02:43,083 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 1
+2025-01-12 16:02:43,083 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,083 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 1
+2025-01-12 16:02:43,083 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,083 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 1
+2025-01-12 16:02:43,083 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 2
+2025-01-12 16:02:43,083 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,083 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 2
+2025-01-12 16:02:43,083 INFO    HandlerThread:21447 [system_monitor.py:finish():203] Stopping system monitor
+2025-01-12 16:02:43,083 DEBUG   SystemMonitor:21447 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2025-01-12 16:02:43,083 INFO    HandlerThread:21447 [interfaces.py:finish():202] Joined cpu monitor
+2025-01-12 16:02:43,083 DEBUG   SystemMonitor:21447 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2025-01-12 16:02:43,083 INFO    HandlerThread:21447 [interfaces.py:finish():202] Joined disk monitor
+2025-01-12 16:02:43,083 DEBUG   SystemMonitor:21447 [system_monitor.py:_start():183] Publishing last batch of metrics
+2025-01-12 16:02:43,084 INFO    HandlerThread:21447 [interfaces.py:finish():202] Joined gpuapple monitor
+2025-01-12 16:02:43,084 INFO    HandlerThread:21447 [interfaces.py:finish():202] Joined memory monitor
+2025-01-12 16:02:43,084 INFO    HandlerThread:21447 [interfaces.py:finish():202] Joined network monitor
+2025-01-12 16:02:43,085 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,085 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 2
+2025-01-12 16:02:43,085 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 3
+2025-01-12 16:02:43,085 DEBUG   SenderThread:21447 [sender.py:send():380] send: telemetry
+2025-01-12 16:02:43,085 DEBUG   SenderThread:21447 [sender.py:send():380] send: stats
+2025-01-12 16:02:43,085 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,086 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 3
+2025-01-12 16:02:43,086 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,086 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 3
+2025-01-12 16:02:43,086 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 4
+2025-01-12 16:02:43,086 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,086 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 4
+2025-01-12 16:02:43,086 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,086 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 4
+2025-01-12 16:02:43,086 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 5
+2025-01-12 16:02:43,086 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,086 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 5
+2025-01-12 16:02:43,087 DEBUG   SenderThread:21447 [sender.py:send():380] send: summary
+2025-01-12 16:02:43,087 INFO    SenderThread:21447 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2025-01-12 16:02:43,087 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,087 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 5
+2025-01-12 16:02:43,087 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 6
+2025-01-12 16:02:43,087 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,088 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 6
+2025-01-12 16:02:43,088 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,088 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 6
+2025-01-12 16:02:43,091 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: status_report
+2025-01-12 16:02:43,155 INFO    wandb-upload_0:21447 [upload_job.py:push():131] Uploaded file /var/folders/rc/3rxfjq553053sqwdkq4r9kjm0000gn/T/tmp1fupfbsfwandb/9a8pi3k3-wandb-metadata.json
+2025-01-12 16:02:43,186 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 7
+2025-01-12 16:02:43,186 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:43,186 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 7
+2025-01-12 16:02:43,186 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:43,186 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 7
+2025-01-12 16:02:44,024 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/config.yaml
+2025-01-12 16:02:44,025 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/wandb-summary.json
+2025-01-12 16:02:44,087 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: poll_exit
+2025-01-12 16:02:44,923 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 8
+2025-01-12 16:02:44,924 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: poll_exit
+2025-01-12 16:02:44,924 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:44,924 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 8
+2025-01-12 16:02:44,924 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:44,924 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 8
+2025-01-12 16:02:44,924 INFO    SenderThread:21447 [job_builder.py:build():298] Attempting to build job artifact
+2025-01-12 16:02:44,925 INFO    SenderThread:21447 [job_builder.py:_get_source_type():428] is repo sourced job
+2025-01-12 16:02:44,946 INFO    SenderThread:21447 [job_builder.py:build():404] adding wandb-job metadata file
+2025-01-12 16:02:44,948 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 9
+2025-01-12 16:02:44,949 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:44,949 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 9
+2025-01-12 16:02:44,949 DEBUG   SenderThread:21447 [sender.py:send():380] send: artifact
+2025-01-12 16:02:45,029 INFO    Thread-12 :21447 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/output.log
+2025-01-12 16:02:45,092 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: poll_exit
+2025-01-12 16:02:45,360 INFO    SenderThread:21447 [sender.py:send_artifact():1458] sent artifact job-git_github.com_Jerryd111_Build-an-ML-Pipeline-for-Short-ter..l-Prices-in-NYC-WGU-.git_components_train_val_test_split_run.py - {'id': 'QXJ0aWZhY3Q6MTQzNjQ4NDU0Mg==', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjUzNTg0OTg3OQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6MTQzNjQ4NDU0Mg==', 'versionIndex': 0}}}
+2025-01-12 16:02:45,360 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:45,361 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 9
+2025-01-12 16:02:45,361 INFO    SenderThread:21447 [dir_watcher.py:finish():358] shutting down directory watcher
+2025-01-12 16:02:46,036 INFO    SenderThread:21447 [dir_watcher.py:finish():388] scan: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files
+2025-01-12 16:02:46,036 INFO    SenderThread:21447 [dir_watcher.py:finish():402] scan save: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/requirements.txt requirements.txt
+2025-01-12 16:02:46,037 INFO    SenderThread:21447 [dir_watcher.py:finish():402] scan save: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/output.log output.log
+2025-01-12 16:02:46,040 INFO    SenderThread:21447 [dir_watcher.py:finish():402] scan save: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/config.yaml config.yaml
+2025-01-12 16:02:46,043 INFO    SenderThread:21447 [dir_watcher.py:finish():402] scan save: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/wandb-summary.json wandb-summary.json
+2025-01-12 16:02:46,045 INFO    SenderThread:21447 [dir_watcher.py:finish():402] scan save: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/conda-environment.yaml conda-environment.yaml
+2025-01-12 16:02:46,049 INFO    SenderThread:21447 [dir_watcher.py:finish():402] scan save: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/wandb-metadata.json wandb-metadata.json
+2025-01-12 16:02:46,049 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 10
+2025-01-12 16:02:46,051 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: poll_exit
+2025-01-12 16:02:46,052 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:46,053 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 10
+2025-01-12 16:02:46,053 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:46,053 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 10
+2025-01-12 16:02:46,053 INFO    SenderThread:21447 [file_pusher.py:finish():175] shutting down file pusher
+2025-01-12 16:02:46,094 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: poll_exit
+2025-01-12 16:02:46,094 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: poll_exit
+2025-01-12 16:02:46,338 INFO    wandb-upload_1:21447 [upload_job.py:push():131] Uploaded file /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/output.log
+2025-01-12 16:02:46,391 INFO    wandb-upload_0:21447 [upload_job.py:push():131] Uploaded file /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/requirements.txt
+2025-01-12 16:02:46,431 INFO    wandb-upload_2:21447 [upload_job.py:push():131] Uploaded file /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/config.yaml
+2025-01-12 16:02:46,432 INFO    wandb-upload_3:21447 [upload_job.py:push():131] Uploaded file /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/wandb-summary.json
+2025-01-12 16:02:46,945 INFO    wandb-upload_4:21447 [upload_job.py:push():131] Uploaded file /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/files/conda-environment.yaml
+2025-01-12 16:02:47,099 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: poll_exit
+2025-01-12 16:02:47,100 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: poll_exit
+2025-01-12 16:02:47,149 INFO    Thread-11 (_thread_body):21447 [sender.py:transition_state():613] send defer: 11
+2025-01-12 16:02:47,149 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:47,149 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 11
+2025-01-12 16:02:47,150 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:47,150 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 11
+2025-01-12 16:02:47,150 INFO    SenderThread:21447 [file_pusher.py:join():181] waiting for file pusher
+2025-01-12 16:02:47,150 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 12
+2025-01-12 16:02:47,150 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:47,150 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 12
+2025-01-12 16:02:47,150 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:47,151 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 12
+2025-01-12 16:02:47,151 INFO    SenderThread:21447 [file_stream.py:finish():595] file stream finish called
+2025-01-12 16:02:47,235 INFO    SenderThread:21447 [file_stream.py:finish():599] file stream finish is done
+2025-01-12 16:02:47,235 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 13
+2025-01-12 16:02:47,236 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:47,236 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 13
+2025-01-12 16:02:47,236 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:47,237 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 13
+2025-01-12 16:02:47,237 INFO    SenderThread:21447 [sender.py:transition_state():613] send defer: 14
+2025-01-12 16:02:47,237 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: defer
+2025-01-12 16:02:47,237 DEBUG   SenderThread:21447 [sender.py:send():380] send: final
+2025-01-12 16:02:47,238 INFO    HandlerThread:21447 [handler.py:handle_request_defer():172] handle defer: 14
+2025-01-12 16:02:47,238 DEBUG   SenderThread:21447 [sender.py:send():380] send: footer
+2025-01-12 16:02:47,238 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: defer
+2025-01-12 16:02:47,238 INFO    SenderThread:21447 [sender.py:send_request_defer():609] handle sender defer: 14
+2025-01-12 16:02:47,239 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: poll_exit
+2025-01-12 16:02:47,239 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: poll_exit
+2025-01-12 16:02:47,239 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: poll_exit
+2025-01-12 16:02:47,240 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: server_info
+2025-01-12 16:02:47,241 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: get_summary
+2025-01-12 16:02:47,241 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: poll_exit
+2025-01-12 16:02:47,241 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: sampled_history
+2025-01-12 16:02:47,242 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: server_info
+2025-01-12 16:02:47,242 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: internal_messages
+2025-01-12 16:02:47,245 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: job_info
+2025-01-12 16:02:47,308 DEBUG   SenderThread:21447 [sender.py:send_request():407] send_request: job_info
+2025-01-12 16:02:47,309 INFO    MainThread:21447 [wandb_run.py:_footer_history_summary_info():3760] rendering history
+2025-01-12 16:02:47,309 INFO    MainThread:21447 [wandb_run.py:_footer_history_summary_info():3792] rendering summary
+2025-01-12 16:02:47,309 INFO    MainThread:21447 [wandb_run.py:_footer_sync_info():3719] logging synced files
+2025-01-12 16:02:47,310 DEBUG   HandlerThread:21447 [handler.py:handle_request():146] handle_request: shutdown
+2025-01-12 16:02:47,311 INFO    HandlerThread:21447 [handler.py:finish():866] shutting down handler
+2025-01-12 16:02:48,250 INFO    WriterThread:21447 [datastore.py:close():294] close: /Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_160241-9uoqnpw5/run-9uoqnpw5.wandb
+2025-01-12 16:02:48,314 INFO    SenderThread:21447 [sender.py:finish():1536] shutting down sender
+2025-01-12 16:02:48,314 INFO    SenderThread:21447 [file_pusher.py:finish():175] shutting down file pusher
+2025-01-12 16:02:48,314 INFO    SenderThread:21447 [file_pusher.py:join():181] waiting for file pusher

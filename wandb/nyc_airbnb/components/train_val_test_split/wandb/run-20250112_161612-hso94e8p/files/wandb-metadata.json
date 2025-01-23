@@ -1,0 +1,58 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.10.0",
+    "heartbeatAt": "2025-01-12T21:16:12.613947",
+    "startedAt": "2025-01-12T21:16:12.144190",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input",
+        "clean_sample:latest",
+        "--test_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "none"
+    ],
+    "state": "running",
+    "program": "/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/train_val_test_split/run.py",
+    "git": {
+        "remote": "git@github.com:Jerryd111/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC-WGU-.git",
+        "commit": "d5035c2adbb22b6480ce9c63d32da923c5627a6d"
+    },
+    "email": "gdonofr@wgu.edu",
+    "root": "/Users/jerry/Project-Build-an-ML-Pipeline-Starter",
+    "host": "MacBook-Pro-2.attlocal.net",
+    "username": "jerry",
+    "executable": "/Users/jerry/miniconda3/envs/mlflow-7a4b50dd29ba33dbf8079a32ff657277a3bd8f63/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 696,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 696,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 12.426765441894531
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 36.0
+    }
+}

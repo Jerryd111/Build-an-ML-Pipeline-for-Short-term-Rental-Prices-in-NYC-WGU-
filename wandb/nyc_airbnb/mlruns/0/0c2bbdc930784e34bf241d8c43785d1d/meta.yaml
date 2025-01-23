@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c2bbdc930784e34bf241d8c43785d1d/artifacts
+end_time: 1735787136644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c2bbdc930784e34bf241d8c43785d1d
+run_name: unleashed-bug-787
+run_uuid: 0c2bbdc930784e34bf241d8c43785d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735787134720
+status: 4
+tags: []
+user_id: jerry

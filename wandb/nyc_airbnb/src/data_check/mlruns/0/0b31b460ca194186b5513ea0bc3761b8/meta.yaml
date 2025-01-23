@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/0b31b460ca194186b5513ea0bc3761b8/artifacts
+end_time: 1736712131383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b31b460ca194186b5513ea0bc3761b8
+run_name: unleashed-hound-955
+run_uuid: 0b31b460ca194186b5513ea0bc3761b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736712129853
+status: 4
+tags: []
+user_id: jerry

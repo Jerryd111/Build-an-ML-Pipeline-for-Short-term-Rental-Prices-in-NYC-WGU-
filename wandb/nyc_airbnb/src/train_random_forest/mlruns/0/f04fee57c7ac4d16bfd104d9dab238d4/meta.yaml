@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/f04fee57c7ac4d16bfd104d9dab238d4/artifacts
+end_time: 1736732382237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04fee57c7ac4d16bfd104d9dab238d4
+run_name: gaudy-hound-259
+run_uuid: f04fee57c7ac4d16bfd104d9dab238d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736732371871
+status: 4
+tags: []
+user_id: jerry

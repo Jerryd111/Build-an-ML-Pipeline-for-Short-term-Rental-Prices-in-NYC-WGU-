@@ -1,0 +1,17 @@
+{"time":"2025-01-12T14:53:00.308554-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20250112_145300-z686cnij/logs/debug-core.log"}
+{"time":"2025-01-12T14:53:00.446043-05:00","level":"INFO","msg":"created new stream","id":"z686cnij"}
+{"time":"2025-01-12T14:53:00.446092-05:00","level":"INFO","msg":"stream: started","id":"z686cnij"}
+{"time":"2025-01-12T14:53:00.44624-05:00","level":"INFO","msg":"handler: started","stream_id":"z686cnij"}
+{"time":"2025-01-12T14:53:00.446339-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"z686cnij"}
+{"time":"2025-01-12T14:53:00.446371-05:00","level":"INFO","msg":"sender: started","stream_id":"z686cnij"}
+{"time":"2025-01-12T14:53:00.482137-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.180:57138->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-12T14:53:02.683125-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T14:53:02.889791-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T14:53:02.890188-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T14:53:03.895356-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact clean_sample","runtime_seconds":0.977806167}],"total_operations":1}}
+{"time":"2025-01-12T14:53:04.614749-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-12T14:53:05.748819-05:00","level":"INFO","msg":"stream: closing","id":"z686cnij"}
+{"time":"2025-01-12T14:53:05.74889-05:00","level":"INFO","msg":"handler: closed","stream_id":"z686cnij"}
+{"time":"2025-01-12T14:53:05.748934-05:00","level":"INFO","msg":"sender: closed","stream_id":"z686cnij"}
+{"time":"2025-01-12T14:53:05.748914-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z686cnij"}
+{"time":"2025-01-12T14:53:05.749242-05:00","level":"INFO","msg":"stream: closed","id":"z686cnij"}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f49709e4deb146d0a5f99f21f9dd1be0/artifacts
+end_time: 1737315172274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f49709e4deb146d0a5f99f21f9dd1be0
+run_name: monumental-robin-168
+run_uuid: f49709e4deb146d0a5f99f21f9dd1be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737315170377
+status: 4
+tags: []
+user_id: jerry

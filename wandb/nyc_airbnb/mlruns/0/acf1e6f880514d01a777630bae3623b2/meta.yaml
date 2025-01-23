@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/acf1e6f880514d01a777630bae3623b2/artifacts
+end_time: 1735779217019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acf1e6f880514d01a777630bae3623b2
+run_name: peaceful-stoat-493
+run_uuid: acf1e6f880514d01a777630bae3623b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735779155802
+status: 3
+tags: []
+user_id: jerry

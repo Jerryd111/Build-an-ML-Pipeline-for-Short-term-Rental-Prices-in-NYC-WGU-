@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1148747584e047e69b1be262f74b660d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1148747584e047e69b1be262f74b660d
+run_name: treasured-jay-125
+run_uuid: 1148747584e047e69b1be262f74b660d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735788250137
+status: 1
+tags: []
+user_id: jerry

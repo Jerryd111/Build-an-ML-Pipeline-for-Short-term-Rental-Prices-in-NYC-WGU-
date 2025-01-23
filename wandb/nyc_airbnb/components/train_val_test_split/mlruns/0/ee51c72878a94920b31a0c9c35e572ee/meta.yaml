@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/ee51c72878a94920b31a0c9c35e572ee/artifacts
+end_time: 1736715769215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee51c72878a94920b31a0c9c35e572ee
+run_name: salty-toad-0
+run_uuid: ee51c72878a94920b31a0c9c35e572ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736715758913
+status: 4
+tags: []
+user_id: jerry

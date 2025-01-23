@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/30068840430f48e78cadafaf6eca22b5/artifacts
+end_time: 1736716407849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30068840430f48e78cadafaf6eca22b5
+run_name: handsome-worm-26
+run_uuid: 30068840430f48e78cadafaf6eca22b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736716398539
+status: 4
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/c5abcee141e64f849c0e4f4c6af3d56e/artifacts
+end_time: 1737305597849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5abcee141e64f849c0e4f4c6af3d56e
+run_name: legendary-pug-97
+run_uuid: c5abcee141e64f849c0e4f4c6af3d56e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737305594141
+status: 4
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4543f528756a49b194d10ba5b6d1e970/artifacts
+end_time: 1735779749887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4543f528756a49b194d10ba5b6d1e970
+run_name: nervous-crow-538
+run_uuid: 4543f528756a49b194d10ba5b6d1e970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735779737486
+status: 3
+tags: []
+user_id: jerry

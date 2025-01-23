@@ -1,0 +1,16 @@
+{"time":"2025-01-12T16:41:27.667262-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/wandb/run-20250112_164127-ojwnamxj/logs/debug-core.log"}
+{"time":"2025-01-12T16:41:27.776307-05:00","level":"INFO","msg":"created new stream","id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:27.776355-05:00","level":"INFO","msg":"stream: started","id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:27.776554-05:00","level":"INFO","msg":"handler: started","stream_id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:27.776749-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:27.77681-05:00","level":"INFO","msg":"sender: started","stream_id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:27.942063-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T16:41:28.135674-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T16:41:28.135985-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T16:41:29.142287-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact clean_sample","runtime_seconds":0.903565625,"subtasks":[{"desc":"clean_sample.csv","runtime_seconds":0.515765167,"progress":"752.0KB/2.7MB"}]}],"total_operations":1}}
+{"time":"2025-01-12T16:41:30.536696-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-12T16:41:31.671936-05:00","level":"INFO","msg":"stream: closing","id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:31.672002-05:00","level":"INFO","msg":"handler: closed","stream_id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:31.672049-05:00","level":"INFO","msg":"sender: closed","stream_id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:31.672033-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ojwnamxj"}
+{"time":"2025-01-12T16:41:31.672381-05:00","level":"INFO","msg":"stream: closed","id":"ojwnamxj"}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/mlruns/0/ef9f3623bb8744b6a2a6a521b8b3a18d/artifacts
+end_time: 1736721758534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef9f3623bb8744b6a2a6a521b8b3a18d
+run_name: placid-fawn-107
+run_uuid: ef9f3623bb8744b6a2a6a521b8b3a18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736721748422
+status: 4
+tags: []
+user_id: jerry

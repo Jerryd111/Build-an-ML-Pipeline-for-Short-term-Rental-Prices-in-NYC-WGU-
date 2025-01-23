@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/mlruns/0/688b1510688f4d158d7dd8a57ba38da0/artifacts
+end_time: 1736717675961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688b1510688f4d158d7dd8a57ba38da0
+run_name: receptive-turtle-493
+run_uuid: 688b1510688f4d158d7dd8a57ba38da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736717666270
+status: 4
+tags: []
+user_id: jerry

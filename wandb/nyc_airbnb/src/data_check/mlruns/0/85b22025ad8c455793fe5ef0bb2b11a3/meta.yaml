@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/src/data_check/mlruns/0/85b22025ad8c455793fe5ef0bb2b11a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85b22025ad8c455793fe5ef0bb2b11a3
+run_name: luxuriant-quail-598
+run_uuid: 85b22025ad8c455793fe5ef0bb2b11a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736392555118
+status: 1
+tags: []
+user_id: jerry
