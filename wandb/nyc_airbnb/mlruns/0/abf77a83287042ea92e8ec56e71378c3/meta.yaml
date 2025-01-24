@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/abf77a83287042ea92e8ec56e71378c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf77a83287042ea92e8ec56e71378c3
+run_name: redolent-squid-961
+run_uuid: abf77a83287042ea92e8ec56e71378c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737732176688
+status: 1
+tags: []
+user_id: jerry

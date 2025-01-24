@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2e6c0e42eb0642948bb541c810a96ebe/artifacts
+end_time: 1737602903943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e6c0e42eb0642948bb541c810a96ebe
+run_name: mercurial-bug-498
+run_uuid: 2e6c0e42eb0642948bb541c810a96ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737602901812
+status: 4
+tags: []
+user_id: jerry

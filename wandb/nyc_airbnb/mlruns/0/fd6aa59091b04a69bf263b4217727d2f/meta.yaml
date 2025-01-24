@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd6aa59091b04a69bf263b4217727d2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd6aa59091b04a69bf263b4217727d2f
+run_name: dapper-seal-708
+run_uuid: fd6aa59091b04a69bf263b4217727d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737731321049
+status: 1
+tags: []
+user_id: jerry

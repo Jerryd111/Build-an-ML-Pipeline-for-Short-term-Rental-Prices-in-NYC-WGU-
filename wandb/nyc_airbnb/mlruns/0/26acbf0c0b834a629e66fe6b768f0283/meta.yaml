@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/26acbf0c0b834a629e66fe6b768f0283/artifacts
+end_time: 1737684487004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26acbf0c0b834a629e66fe6b768f0283
+run_name: handsome-calf-973
+run_uuid: 26acbf0c0b834a629e66fe6b768f0283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737684485017
+status: 4
+tags: []
+user_id: jerry
