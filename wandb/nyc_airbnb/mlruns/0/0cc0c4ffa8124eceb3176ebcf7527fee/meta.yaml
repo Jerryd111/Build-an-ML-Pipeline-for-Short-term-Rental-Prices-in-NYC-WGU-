@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0cc0c4ffa8124eceb3176ebcf7527fee/artifacts
+end_time: 1738193559556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc0c4ffa8124eceb3176ebcf7527fee
+run_name: wistful-squirrel-521
+run_uuid: 0cc0c4ffa8124eceb3176ebcf7527fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738193484455
+status: 3
+tags: []
+user_id: jerry

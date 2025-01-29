@@ -1,0 +1,62 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.9.0",
+    "heartbeatAt": "2025-01-29T23:32:32.279977",
+    "startedAt": "2025-01-29T23:32:31.695532",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/Users/jerry/miniconda3/envs/mlflow-6d0f742812f1516a2553621ddcf4cbd3cd1467db/bin/pytest",
+    "codePathLocal": null,
+    "codePath": "miniconda3/envs/mlflow-6d0f742812f1516a2553621ddcf4cbd3cd1467db/bin/pytest",
+    "git": {
+        "remote": "git@github.com:Jerryd111/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC-WGU-.git",
+        "commit": "ad06f3ac625b6df0e45ed5095f6a25494650d6ac"
+    },
+    "email": "gdonofr@wgu.edu",
+    "root": "/Users/jerry",
+    "host": "MacBook-Pro-2.attlocal.net",
+    "username": "jerry",
+    "executable": "/Users/jerry/miniconda3/envs/mlflow-6d0f742812f1516a2553621ddcf4cbd3cd1467db/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 696,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 696,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 12.42740249633789
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 36.0
+    }
+}
