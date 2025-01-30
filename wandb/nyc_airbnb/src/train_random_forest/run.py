@@ -95,10 +95,10 @@ def go(args):
     ######################################
     # Save the sk_pipe pipeline as a mlflow.sklearn model in the directory "random_forest_dir"
     # HINT: use mlflow.sklearn.save_model
-    signature = mlflow.models.infer_signature(X_val, y_pred)
+    #   signature = mlflow.models.infer_signature(X_val, y_pred)
     mlflow.sklearn.save_model(
         # YOUR CODE HERE
-        signature = signature,
+    #       signature = signature,
         input_example = X_train.iloc[:5]
     )
     ######################################
@@ -121,7 +121,7 @@ def go(args):
     # Here we save variable r_squared under the "r2" key
     run.summary['r2'] = r_squared
     # Now save the variable mae under the key "mae".
-    # YOUR CODE HERE
+    run.summary['mae'] = mae
     ######################################
 
     # Upload to W&B the feture importance visualization
