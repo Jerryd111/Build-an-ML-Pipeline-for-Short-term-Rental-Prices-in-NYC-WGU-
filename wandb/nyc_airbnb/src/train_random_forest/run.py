@@ -97,6 +97,7 @@ def go(args):
     # HINT: use mlflow.sklearn.save_model
     signature = mlflow.models.infer_signature(X_val, y_pred)
     mlflow.sklearn.save_model(
+    rfm_pipeline,
     "models/random_forest_model",      
     signature = signature,
     input_example = X_train.iloc[:5]
