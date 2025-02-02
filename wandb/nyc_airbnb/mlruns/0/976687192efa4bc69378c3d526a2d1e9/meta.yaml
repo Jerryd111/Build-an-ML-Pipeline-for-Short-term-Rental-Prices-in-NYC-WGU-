@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/976687192efa4bc69378c3d526a2d1e9/artifacts
+end_time: 1738525064489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 976687192efa4bc69378c3d526a2d1e9
+run_name: able-mule-494
+run_uuid: 976687192efa4bc69378c3d526a2d1e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738525054697
+status: 3
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a3ac16f3d92c481c9221454cda884da0/artifacts
+end_time: 1738525064380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3ac16f3d92c481c9221454cda884da0
+run_name: agreeable-wasp-944
+run_uuid: a3ac16f3d92c481c9221454cda884da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738525056634
+status: 3
+tags: []
+user_id: jerry
