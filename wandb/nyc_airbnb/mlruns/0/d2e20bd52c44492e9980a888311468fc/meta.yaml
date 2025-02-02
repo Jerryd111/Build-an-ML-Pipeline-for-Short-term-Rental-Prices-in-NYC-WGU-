@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d2e20bd52c44492e9980a888311468fc/artifacts
+end_time: 1738521741607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2e20bd52c44492e9980a888311468fc
+run_name: sassy-sponge-624
+run_uuid: d2e20bd52c44492e9980a888311468fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738521731830
+status: 3
+tags: []
+user_id: jerry

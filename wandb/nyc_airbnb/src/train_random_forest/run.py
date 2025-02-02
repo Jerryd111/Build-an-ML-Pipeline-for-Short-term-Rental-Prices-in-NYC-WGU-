@@ -94,12 +94,12 @@ def go(args):
     # Save the sk_pipe pipeline as a mlflow.sklearn model in the directory "random_forest_dir"
     # HINT: use mlflow.sklearn.save_model
 
-    export_path = "random_forest_dir"
-    signature = infer_signature(X_val, y_pred)
-
+    #   signature = mlflow.models.infer_signature(X_val, y_pred)
     mlflow.sklearn.save_model(
     rfm_pipeline,
     "models/random_forest_model",      
+    #       signature = signature,
+   
     input_example = X_train.iloc[:5]
     )
 

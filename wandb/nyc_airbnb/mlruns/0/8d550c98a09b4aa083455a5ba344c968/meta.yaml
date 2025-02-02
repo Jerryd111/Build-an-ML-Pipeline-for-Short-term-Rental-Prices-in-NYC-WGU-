@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8d550c98a09b4aa083455a5ba344c968/artifacts
+end_time: 1738522115664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d550c98a09b4aa083455a5ba344c968
+run_name: rogue-cow-617
+run_uuid: 8d550c98a09b4aa083455a5ba344c968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738522106306
+status: 3
+tags: []
+user_id: jerry
