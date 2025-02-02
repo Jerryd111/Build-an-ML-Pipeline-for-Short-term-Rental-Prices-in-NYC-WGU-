@@ -99,7 +99,6 @@ def go(args):
     mlflow.sklearn.save_model(
     rfm_pipeline,
     "models/random_forest_model",      
-    signature = signature,
     input_example = X_train.iloc[:5]
     )
     ######################################
@@ -165,7 +164,8 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
     # 1 - A SimpleImputer(strategy="most_frequent") to impute missing values
     # 2 - A OneHotEncoder() step to encode the variable
     non_ordinal_categorical_preproc = make_pipeline(
-        # YOUR CODE HERE
+        SimpleImputer(strategy="most_frequent"),
+        OneHotEncoder()
     )
     ######################################
 
@@ -228,8 +228,8 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
 
     sk_pipe = Pipeline(
         steps =[
-        # YOUR CODE HERE
-        ]
+            ("preprocessor", preprocessor),
+            ("random_forest", random_Forest)        ]
     )
 
     return sk_pipe, processed_features
