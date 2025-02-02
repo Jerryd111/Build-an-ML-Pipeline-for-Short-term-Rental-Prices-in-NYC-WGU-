@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c80984ccac1c4fd8bd7c101fd8743622/artifacts
+end_time: 1738199241027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c80984ccac1c4fd8bd7c101fd8743622
+run_name: bouncy-crow-82
+run_uuid: c80984ccac1c4fd8bd7c101fd8743622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738199230856
+status: 3
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b6981d7b1f1a4879977476894a608c6d/artifacts
+end_time: 1738201621194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6981d7b1f1a4879977476894a608c6d
+run_name: hilarious-steed-743
+run_uuid: b6981d7b1f1a4879977476894a608c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738201613109
+status: 3
+tags: []
+user_id: jerry

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7efe3929358a4d9aae058689977e18da/artifacts
+end_time: 1738201188391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7efe3929358a4d9aae058689977e18da
+run_name: colorful-rat-968
+run_uuid: 7efe3929358a4d9aae058689977e18da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738201177838
+status: 3
+tags: []
+user_id: jerry

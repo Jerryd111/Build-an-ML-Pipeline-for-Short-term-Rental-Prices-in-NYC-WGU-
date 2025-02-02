@@ -1,0 +1,14 @@
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Configure stats pid to 44889
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Loading settings from /Users/jerry/.config/wandb/settings
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Loading settings from /Users/jerry/wandb/nyc_airbnb/src/data_check/wandb/settings
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'project': 'nyc_airbnb', 'run_group': 'development'}
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-01-29 20:07:17,334 INFO    MainThread:44889 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'miniconda3/envs/mlflow-6d0f742812f1516a2553621ddcf4cbd3cd1467db/bin/pytest', 'program_abspath': '/Users/jerry/miniconda3/envs/mlflow-6d0f742812f1516a2553621ddcf4cbd3cd1467db/bin/pytest', 'program': '/Users/jerry/miniconda3/envs/mlflow-6d0f742812f1516a2553621ddcf4cbd3cd1467db/bin/pytest'}
+2025-01-29 20:07:17,335 INFO    MainThread:44889 [wandb_init.py:_log_setup():524] Logging user logs to /Users/jerry/wandb/nyc_airbnb/src/data_check/wandb/run-20250129_200717-iqnrm3n4/logs/debug.log
+2025-01-29 20:07:17,335 INFO    MainThread:44889 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/jerry/wandb/nyc_airbnb/src/data_check/wandb/run-20250129_200717-iqnrm3n4/logs/debug-internal.log
+2025-01-29 20:07:17,335 INFO    MainThread:44889 [wandb_init.py:init():564] calling init triggers
+2025-01-29 20:07:17,335 INFO    MainThread:44889 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2025-01-29 20:07:17,335 INFO    MainThread:44889 [wandb_init.py:init():609] wandb.init() called when a run is still active
+2025-01-29 20:07:20,370 WARNING MsgRouterThr:44889 [router.py:message_loop():77] message_loop has been closed

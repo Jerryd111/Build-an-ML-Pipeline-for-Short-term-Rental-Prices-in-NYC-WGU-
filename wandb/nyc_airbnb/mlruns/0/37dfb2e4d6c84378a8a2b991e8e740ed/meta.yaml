@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jerry/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/37dfb2e4d6c84378a8a2b991e8e740ed/artifacts
+end_time: 1738201621296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37dfb2e4d6c84378a8a2b991e8e740ed
+run_name: bouncy-fox-691
+run_uuid: 37dfb2e4d6c84378a8a2b991e8e740ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738201610674
+status: 3
+tags: []
+user_id: jerry
