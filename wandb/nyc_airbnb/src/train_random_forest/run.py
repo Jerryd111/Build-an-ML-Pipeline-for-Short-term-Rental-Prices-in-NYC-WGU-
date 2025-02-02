@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-This script trains a Random Forest
+This script builds a pipeline and trains a Random Forest model
 """
 import argparse
 import logging
